@@ -15,26 +15,31 @@ A simple Django REST API for managing coupons and subscribers.
 
 ```bash
 pip install -r requirements.txt
+```
 
 ##  Install dependencies
 
 ```bash
  pip install -r requirements.txt
+```
 
 ## Run migrations
 
 ```bash
  python manage.py migrate
+```
 
 ## Create superuser
 
 ```bash
  python manage.py createsuperuser
+```
 
 ## Run server
 
 ```bash
  python manage.py runserver
+```
 
 ## API Endpoints
 
